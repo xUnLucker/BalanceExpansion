@@ -1,0 +1,6 @@
+name: EssentialsBalancePlaceholder
+version: 1.0.0
+main: me.xunluck.essentialsbalance.EssentialsBalancePlaceholder
+api-version: 1.16
+author: xUnLuck
+depend: [PlaceholderAPI, Essentials]
